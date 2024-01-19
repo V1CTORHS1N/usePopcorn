@@ -27,4 +27,4 @@ This is a web application using React.js to display movies from the [OMDb API](h
 
 
 ## Demo
-![snippet](Web.gif)
+![snippet](./images/Web.gif)
